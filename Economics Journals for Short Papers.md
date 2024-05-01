@@ -143,3 +143,7 @@ Short Papers
 "Peer-reviewed short communications of findings on topical issues or published articles of between 2000 and 4000 words."
 [URL: https://www.journals.elsevier.com/social-science-and-medicine ]
 
+## 23 ECON Gradadvice
+"This site provides some resources for grad students in economics. If you have useful resources that you would like to be added to this page please reach out to the creators of this page (Chris Roth or David Schindler)."
+[URL: https://sites.google.com/view/econgradadvice ]
+
